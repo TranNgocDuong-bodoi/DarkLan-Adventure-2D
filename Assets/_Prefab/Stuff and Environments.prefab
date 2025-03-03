@@ -1,0 +1,537 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2845841494901070640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8717111160293724165}
+  m_Layer: 0
+  m_Name: Stuff and Environments
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8717111160293724165
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2845841494901070640}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 27.251806, y: 5.204117, z: 0.019100968}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1443844813595332714}
+  - {fileID: 7328869911249775805}
+  - {fileID: 6479645621412143401}
+  - {fileID: 2744761043998438137}
+  - {fileID: 4742713315194705296}
+  - {fileID: 4446084945869183373}
+  - {fileID: 1468444504216284477}
+  - {fileID: 4624736488587855079}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &1868962088785192671
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8717111160293724165}
+    m_Modifications:
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.2381954
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 14.288992
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.019100968
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5228992546055282352, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_Name
+      value: TileVania Mushroom (4)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00c25b848fba27e418950068867b6958, type: 3}
+--- !u!4 &1468444504216284477 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+  m_PrefabInstance: {fileID: 1868962088785192671}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &2515258966793563965
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8717111160293724165}
+    m_Modifications:
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.43
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.019100968
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6360486365401979359, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_Name
+      value: Coins
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+--- !u!4 &1443844813595332714 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+  m_PrefabInstance: {fileID: 2515258966793563965}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3141345134088714523
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8717111160293724165}
+    m_Modifications:
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -30.541805
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 22.300577
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.019100968
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5228992546055282352, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_Name
+      value: TileVania Mushroom (1)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00c25b848fba27e418950068867b6958, type: 3}
+--- !u!4 &2744761043998438137 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+  m_PrefabInstance: {fileID: 3141345134088714523}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3475863923790942831
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8717111160293724165}
+    m_Modifications:
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 16.326372
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 12.280674
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.019100968
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5228992546055282352, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_Name
+      value: TileVania Mushroom (3)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00c25b848fba27e418950068867b6958, type: 3}
+--- !u!4 &4446084945869183373 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+  m_PrefabInstance: {fileID: 3475863923790942831}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5503000450203065970
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8717111160293724165}
+    m_Modifications:
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -34.719906
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 34.306313
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.019100968
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5228992546055282352, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_Name
+      value: TileVania Mushroom (2)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00c25b848fba27e418950068867b6958, type: 3}
+--- !u!4 &4742713315194705296 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+  m_PrefabInstance: {fileID: 5503000450203065970}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5593831601697459973
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8717111160293724165}
+    m_Modifications:
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -4.7118053
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 14.288994
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.019100968
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5228992546055282352, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_Name
+      value: TileVania Mushroom (5)
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00c25b848fba27e418950068867b6958, type: 3}
+--- !u!4 &4624736488587855079 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+  m_PrefabInstance: {fileID: 5593831601697459973}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6006411964688634858
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8717111160293724165}
+    m_Modifications:
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.4641094
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.4658833
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.038201936
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6360486365401979359, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+      propertyPath: m_Name
+      value: Coins
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+--- !u!4 &7328869911249775805 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 3958223724376457047, guid: c045c083feb0f07439e44fe0d02b203b, type: 3}
+  m_PrefabInstance: {fileID: 6006411964688634858}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &6080781152375188171
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8717111160293724165}
+    m_Modifications:
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1.781807
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.71411705
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.019100968
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5228992546055282352, guid: 00c25b848fba27e418950068867b6958, type: 3}
+      propertyPath: m_Name
+      value: TileVania Mushroom
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 00c25b848fba27e418950068867b6958, type: 3}
+--- !u!4 &6479645621412143401 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 977023150763609058, guid: 00c25b848fba27e418950068867b6958, type: 3}
+  m_PrefabInstance: {fileID: 6080781152375188171}
+  m_PrefabAsset: {fileID: 0}
